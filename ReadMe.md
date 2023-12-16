@@ -3,8 +3,8 @@
 
 
 ## 🌐 Rede Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arthur.speziali)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arthurspeziali) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arthur.speziali)
 
 ## 📆 Contatos:
 📧 Email: arthur.speziali2022@gmail.com<br>📞 Telefone/WhatsApp/Telegram: +55 (41) 995158753
